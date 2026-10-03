@@ -2,7 +2,8 @@
 
 Plataforma oficial de herramientas de entrenamiento y utilidades de la **Federación Chilena de Taekwon-Do Tradicional** (**FECHITAT**).
 
-Dominio de producción: [https://tools.fechitat.cl](https://tools.fechitat.cl)
+Dominio de producción: [https://tools-sigma-olive.vercel.app](https://tools-sigma-olive.vercel.app)
+*(Dominio personalizado planificado: `tools.fechitat.cl`)*
 
 ---
 

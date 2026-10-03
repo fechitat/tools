@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tools.fechitat.cl/sitemap.xml
+Sitemap: https://tools-sigma-olive.vercel.app/sitemap.xml
