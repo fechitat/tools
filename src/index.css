@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root {
+  --fechitat-red: #d21111;
+  --fechitat-black: #121212;
+  --fechitat-white: #ffffff;
+}
