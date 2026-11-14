@@ -32,3 +32,4 @@ dist-ssr
 .turbo
 .vercel
 .env*
+!.env.example
