@@ -15,11 +15,11 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
+    "types": ["vite/client"],
     "baseUrl": ".",
     "paths": {
       "@fechitat/brand": ["src/shared/brand.ts"],
-      "@fechitat/ui": ["src/shared/ui.tsx"],
-      "@fechitat/content": ["src/shared/content.ts"]
+      "@fechitat/ui": ["src/shared/ui.tsx"]
     }
   },
   "include": ["src"]

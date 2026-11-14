@@ -18,7 +18,6 @@ export default defineConfig({
     alias: {
       "@fechitat/brand": fileURLToPath(new URL("./src/shared/brand.ts", import.meta.url)),
       "@fechitat/ui": fileURLToPath(new URL("./src/shared/ui.tsx", import.meta.url)),
-      "@fechitat/content": fileURLToPath(new URL("./src/shared/content.ts", import.meta.url)),
     },
   },
   server: {
